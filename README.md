@@ -1,16 +1,23 @@
-## Hi there 👋
+# Frontend Developer 
 
-<!--
-**Dobrodei/Dobrodei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages & Frameworks:** HTML, CSS(SCSS), JavaSript, React, Next, Typescript 
+- **State Management:** Redux Toolkit, Recoil, Mobx
+- **Server / Data Fetching:** SWR, Axios, TanStack
+- **Styling & UI:** Storybook, Tailwind CSS, Material UI (MUI), Radix UI
+- **Tools & Platforms:** Git, GitHub, Vite, Webpack, Figma
+
+---
+
+## Projects
+
+- [**Frontend Example Architecture**](https://github.com/your-username/frontend-example-architecture) – Example of a scalable frontend architecture with React and TypeScript.
+
+---
+
+## Contact
+
+- 📫 Telegram: [@DobrodeiWeb](https://t.me/dobrodeiweb)  
