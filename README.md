@@ -18,4 +18,4 @@
 
 ## Contact
 
-- 📫 Telegram: [@DobrodeiWeb](https://t.me/dobrodeiweb)  
+- 📫 Telegram: [@KStu.dev](https://t.me/kirilixxxx)  
