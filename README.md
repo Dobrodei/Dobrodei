@@ -18,4 +18,4 @@
 
 ## Contact
 
-- 📫 Telegram: [@KStu.dev](https://t.me/kirilixxxx)  
+- 📫 Telegram: [@kirilixxxx](https://t.me/kirilixxxx)  
